@@ -1,0 +1,7 @@
+
+/out/
+/.idea/
+/.vscode/
+*.class
+*.log
+out/
